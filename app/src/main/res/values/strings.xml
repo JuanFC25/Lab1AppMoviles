@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Lab1AppMoviles</string>
+    <string name="tituloApp">CompraVenta</string>
+    <string name="tituloProd">Titulo</string>
+    <string name="tituloProdPT">Titulo...</string>
+    <string name="descripcionProd">Descripción(opcional)</string>
+    <string name="descripcionProdPT">Descripción del producto...</string>
+    <string name="correo">Correo electronico:</string>
+    <string name="correoPT">Correo electronico</string>
 </resources>
